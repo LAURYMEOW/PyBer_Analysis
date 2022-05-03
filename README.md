@@ -28,6 +28,8 @@ Despite the high fares present in Rural cities, their participation in the Total
 This behavior opens windows of opportunity for the company if it is known how to deal with it. For this, it is necessary to reflect on the disparities in access to services that require a certain degree of digitization and internet access of the population between different types of cities, also highlighting the price inequality in the Pyber service that leaves out the lower-income populations across social classes.
 It is very important to evaluate the reason for the low demand for the PyBer service in rural cities in order to generate a strategic proposal that is useful for these cities, the response that we can obtain by carrying out a market study (marked analysis) focused on said population.
 
+### Recommendations:
+
 Based on the results, we can make the following recommendations to the CEO for addressing any disparities among the city types.
 
 * The first is to carry out a market study focused on Rural communities, to assess the level of income, the main use of transport, the level of digital access, the interest in the PyBer service, among others.
