@@ -23,7 +23,7 @@ Despite the high fares present in Rural cities, their participation in the Total
 
 #### Chart 1:
 
-![Total Fare by City Type ](http://localhost:8888/view/analysis/Pyber_summary.png)
+![Total Fare by City Type ](https://github.com/LAURYMEOW/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
 
 This behavior opens windows of opportunity for the company if it is known how to deal with it. For this, it is necessary to reflect on the disparities in access to services that require a certain degree of digitization and internet access of the population between different types of cities, also highlighting the price inequality in the Pyber service that leaves out the lower-income populations across social classes.
 It is very important to evaluate the reason for the low demand for the PyBer service in rural cities in order to generate a strategic proposal that is useful for these cities, the response that we can obtain by carrying out a market study (marked analysis) focused on said population.
