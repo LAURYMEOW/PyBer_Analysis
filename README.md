@@ -11,7 +11,7 @@ We have been asked to analyze the differences in total weekly rates for each typ
 As mentioned above, the following table was generated that allows us to make a deeper analysis of the information we have. 
 
 #### Table 1:
-![Pyber Summary](http://localhost:8888/edit/Pyber%20Summary.xlsx)
+![Pyber Summary](https://github.com/LAURYMEOW/PyBer_Analysis/blob/main/analysis/Pyber_summary.png)
 
 It can be seen that the PyBer market covers 3 types of cities: Rural, Suburban and Urban. As expected, the total number of rides, as well as the total number of drivers, is lower in rural areas than in Urban and Suburban areas.
 Specifically, the total number of rides in rural areas is approximately 5 times less than in Suburban areas and 13 times less than in Urban areas.
